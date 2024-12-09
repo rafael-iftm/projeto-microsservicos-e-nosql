@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://rafaeljs:g1AMAv7Q3RNkDdVd@rafaelcluster.vj0cg.mongodb.net/<nomeDoBanco>?retryWrites=true&w=majority
